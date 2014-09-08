@@ -3,18 +3,27 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Hexo Multilanguage Example
 subtitle:
 description:
-author: John Doe
+author: Jon Doe
 email:
 language:
+  - en
+  - de
+
+permalink: /:title/
+language_detect_in_path: true
+language_detect_first_level: true
+permalink_defaults:
+  lang: en
+
+new_post_name: :lang/:title.md # File name of new posts
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
