@@ -9,7 +9,7 @@ Notice: It is just a demo and work in progress...
 IMPORTANT NOTICE
 ----------------
 
-Until my pull requests are not merged to the official HEXO repo, you have to use
+Until my pull requests are merged to the official HEXO repo, you have to use
 my HEXO fork, with the branch `multilanguage`
 
 ```
@@ -36,7 +36,7 @@ How to install and use this example repository
 
 ~~Install [HEXO](http://hexo.io), for more informations see [docs](http://hexo.io/docs/).~~
 
-TODAY: Use my hexo version, see above.
+TODAY: Use my hexo version, see notice above.
 
 ```
 # NO - npm install hexo -g
