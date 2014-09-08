@@ -1,0 +1,4 @@
+[submodule "landscape"]
+    path = themes/landscape
+    url = https://github.com/jkuetemeier/hexo-theme-landscape.git
+    branch = multilanguage
