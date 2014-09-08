@@ -9,7 +9,7 @@ or use on your own risk ;-)
 
 This is an example using HEXO (http://hexo.io) to generate a static multilanguage site
 
-How to insall and use this example repository
+How to install and use this example repository
 =============================================
 
 ### Install Hexo
