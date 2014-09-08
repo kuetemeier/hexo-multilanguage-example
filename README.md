@@ -45,6 +45,8 @@ npm install
 cd ../../
 ```
 
+### run the server
+
 start your server
 
 ```
