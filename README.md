@@ -19,6 +19,7 @@ my HEXO fork, with the branch `multilanguage`
 ```
 git clone https://github.com/jkuetemeier/hexo.git
 cd hexo
+git checkout multilanguage
 npm install
 ```
 and now make it your global hexo
