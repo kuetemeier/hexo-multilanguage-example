@@ -139,3 +139,16 @@ install the theme dependencies
 npm install
 grunt
 ```
+
+### Install Multilanguage Plugin
+
+Install the [HEXO Multilanguge Plugin](https://github.com/jkuetemeier/hexo-plugin-multilanguage)
+
+Use the GitHub version until development is finished and npm version is released:
+
+```
+npm install jkuetemeier/hexo-plugin-multilanguage --save
+```
+
+
+
