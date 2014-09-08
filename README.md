@@ -1,9 +1,53 @@
 hexo-multilanguage-example
 ==========================
 
+WARNING: this is work in progress... please give me a few ours to finish it - or use on your own risk ;-)
+
 This is an example using HEXO (http://hexo.io) to generate a static multilanguage site
 
+How to insall and use this example repository
+=============================================
 
+### Install Hexo
+
+Install [HEXO](http://hexo.io), for more informations see [docs](http://hexo.io/docs/).
+
+```
+npm install hexo -g
+```
+
+Clone it to your local folder (or fork it, if you intend to create expansions - pull requests are welcome).
+
+```
+git clone https://github.com/jkuetemeier/hexo-multilanguage-example.git example
+```
+
+install site requirements
+
+```
+cd example
+npm install
+```
+
+install theme requirements
+
+```
+cd themes/landscape
+npm install
+
+# get back to repo root directory
+cd ../../
+```
+
+start your server
+
+```
+hexo server
+```
+
+Now you can direct your favorit browser to `http://localhost:4000`
+
+Enjoy!
 
 How was this example created?
 =============================
@@ -48,14 +92,14 @@ cd themes
 git clone https://github.com/jkuetemeier/hexo-theme-landscape.git landscape
 ```
 
-and checkout the Branch `multilanguage`
+checkout the Branch `multilanguage`
 
 ```
 cd landscape
 git checkout multilanguage
 ```
 
-and install the theme dependencies
+install the theme dependencies
 
 ```
 npm install
