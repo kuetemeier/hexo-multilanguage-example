@@ -28,7 +28,7 @@ and now make it your global hexo
 npm link
 ```
 
-You can restore the offical version later on with
+You can restore the official version later on with
 ```
 npm install hexo -g
 ```
@@ -36,7 +36,7 @@ npm install hexo -g
 How to install and use this example repository
 =============================================
 
-### Install Hexo
+### Install HEXO
 
 Install [HEXO](http://hexo.io), for more informations see [docs](http://hexo.io/docs/).
 
@@ -79,7 +79,7 @@ start your server
 hexo server
 ```
 
-Now you can direct your favorit browser to `http://localhost:4000`
+Now you can direct your favorite browser to `http://localhost:4000`
 
 Enjoy!
 
@@ -111,7 +111,7 @@ npm install
 
 ### Install Theme
 
-For this demo we use the [HEXO Landscape Theme](https://github.com/hexojs/hexo-theme-landscape). Now, until development is finished and a pull request ist commited, we use a modifed `multilanguage` branch of this [fork](https://github.com/jkuetemeier/hexo-theme-landscape/tree/multilanguage).
+For this demo we use the [HEXO Landscape Theme](https://github.com/hexojs/hexo-theme-landscape). Now, until development is finished and a pull request ist committed, we use a modified `multilanguage` branch of this [fork](https://github.com/jkuetemeier/hexo-theme-landscape/tree/multilanguage).
 
 You need to install [Grunt](http://gruntjs.com) as a requirement, if you not alread have it. See [Getting startet](http://gruntjs.com/getting-started) for more informations on Grunt.
 
@@ -142,7 +142,7 @@ grunt
 
 ### Install Multilanguage Plugin
 
-Install the [HEXO Multilanguge Plugin](https://github.com/jkuetemeier/hexo-plugin-multilanguage)
+Install the [HEXO Multilanguage Plugin](https://github.com/jkuetemeier/hexo-plugin-multilanguage)
 
 Use the GitHub version until development is finished and npm version is released:
 
