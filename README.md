@@ -1,7 +1,9 @@
 hexo-multilanguage-example
 ==========================
 
-WARNING:
+WARNING
+-------
+
 this is work in progress... please give me a few ours to finish it -
 or use on your own risk ;-)
 
