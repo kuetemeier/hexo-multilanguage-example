@@ -9,6 +9,29 @@ or use on your own risk ;-)
 
 This is an example using HEXO (http://hexo.io) to generate a static multilanguage site
 
+
+IMPORTANT NOTICE
+----------------
+
+Until my pull requests are not merged to the official HEXO repo, you have to use
+my HEXO fork, with the branch `multilanguage`
+
+```
+git clone https://github.com/jkuetemeier/hexo.git
+cd hexo
+npm install
+```
+and now make it your global hexo
+
+```
+npm link
+```
+
+You can restore the offical version later on with
+```
+npm install hexo -g
+```
+
 How to install and use this example repository
 =============================================
 
