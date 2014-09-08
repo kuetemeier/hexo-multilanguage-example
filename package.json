@@ -1,6 +1,6 @@
 {
   "name": "hexo-multilanguage-example",
-  "version": "2.8.2",
+  "version": "2.8.3",
   "description": "This is an example using HEXO (http://hexo.io) to generate a static multilanguage site",
   "private": false,
   "license": "MIT",
@@ -12,7 +12,7 @@
     "url": "https://jkuetemeier.com"
   },
   "bugs": {
-    "url" : "http://github.com/jkuetemeier/hexo-multilanguage-example/issues"
+    "url": "http://github.com/jkuetemeier/hexo-multilanguage-example/issues"
   },
   "dependencies": {
     "hexo-renderer-ejs": "*",
