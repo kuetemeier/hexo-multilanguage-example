@@ -1,7 +1,9 @@
 hexo-multilanguage-example
 ==========================
 
-WARNING: this is work in progress... please give me a few ours to finish it - or use on your own risk ;-)
+WARNING:
+this is work in progress... please give me a few ours to finish it -
+or use on your own risk ;-)
 
 This is an example using HEXO (http://hexo.io) to generate a static multilanguage site
 
@@ -16,11 +18,15 @@ Install [HEXO](http://hexo.io), for more informations see [docs](http://hexo.io/
 npm install hexo -g
 ```
 
+### Clone repo
+
 Clone it to your local folder (or fork it, if you intend to create expansions - pull requests are welcome).
 
 ```
 git clone https://github.com/jkuetemeier/hexo-multilanguage-example.git example
 ```
+
+### Install requirements
 
 install site requirements
 
