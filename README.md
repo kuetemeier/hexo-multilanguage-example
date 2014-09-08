@@ -59,7 +59,21 @@ cd example
 npm install
 ```
 
-install theme requirements
+Now clone the theme into the directory `landscape`
+
+```
+cd themes
+git clone https://github.com/jkuetemeier/hexo-theme-landscape.git landscape
+```
+
+checkout the Branch `multilanguage`
+
+```
+cd landscape
+git checkout multilanguage
+```
+
+and install dependencies
 
 ```
 cd themes/landscape
