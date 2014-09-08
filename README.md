@@ -76,7 +76,6 @@ git checkout multilanguage
 and install dependencies
 
 ```
-cd themes/landscape
 npm install
 
 # get back to repo root directory
