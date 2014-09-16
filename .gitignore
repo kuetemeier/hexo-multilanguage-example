@@ -85,3 +85,4 @@ bower_components
 .coveralls.yml
 
 public/
+db.json
