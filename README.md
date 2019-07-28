@@ -4,6 +4,8 @@ This project is archived.
 
 Meanwhile I would recommend you to use Hugo. Have a look at https://wolfszwinkern.com to get the latest tips about Hugo.
 
+This code stays here for your personal reference. Enjoy :-)
+
 hexo-multilanguage-example
 ==========================
 
@@ -159,12 +161,12 @@ grunt
 
 ### Install Multilanguage Plugin
 
-Install the [HEXO Multilanguage Plugin](https://github.com/jkuetemeier/hexo-plugin-multilanguage)
+Install the [HEXO Multilanguage Plugin](https://github.com/kuetemeier/hexo-plugin-multilanguage)
 
 Use the GitHub version until development is finished and npm version is released:
 
 ```
-npm install jkuetemeier/hexo-plugin-multilanguage --save
+npm install kuetemeier/hexo-plugin-multilanguage --save
 ```
 
 
