@@ -1,3 +1,9 @@
+## Archived
+
+This project is archived.
+
+Meanwhile I would recommend you to use Hugo. Have a look at https://wolfszwinkern.com to get the latest tips about Hugo.
+
 hexo-multilanguage-example
 ==========================
 
